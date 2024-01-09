@@ -8,7 +8,7 @@ Responsive Restaurant website created using React JS
 - React JS
 
 # Live Site
-
+- https://ffrestaurant.netlify.app/
 
 # Screenshots
 ![1](https://github.com/Evilking009/RestaurantApp/assets/4027728/66bbfc3b-89b6-4cd7-8366-1e9c79a6a34e)
